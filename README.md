@@ -16,8 +16,9 @@ F8 BINDING FOR EASY USE:
 3. Enter
 Whenever you click your key of choice you will carry a person if they are nearby.
 
-RECOMMENDED ANIMATIONS IF YOU WISH TO CHANGE THE BASIC ONE:
-- - - - - - - - - - - Starting Code
+# RECOMMENDED ANIMATIONS IF YOU WISH TO CHANGE THE BASIC ONE:
+# Starting Code
+                      
 local carry = {
 	InProgress = false,
 	targetSrc = -1,
@@ -36,7 +37,9 @@ local carry = {
 		flag = 33,
 	}
 } 
-- - - - - - - - - - - Option Change (Carrys them infront in your hands)
+
+# Option Change (Carrys them infront in your hands)
+
 local carry = {
 	InProgress = false,
 	targetSrc = -1,

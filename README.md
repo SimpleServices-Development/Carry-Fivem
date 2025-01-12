@@ -22,4 +22,4 @@ Whenever you click your key of choice you will carry a person if they are nearby
 
 Edited version of: https://github.com/rubbertoe98/FiveM-Scripts/tree/master/CarryPeople
 
-Before anyone says that it is a stolen code, I have linked the creators page above and they have said in their read me, and I quote: "Feel free to make improvements". 
+Before anyone says that it is a stolen code, I have linked the original creators page above and they have said in their read me, and I quote: "Feel free to make improvements". 

@@ -45,19 +45,19 @@ local carry = {
 	targetSrc = -1,
 	type = "",
 	personCarrying = {
-		animDict = "missfinale_c2mcs_1",
+		animDict = "anim@heists@box_carry@",
 		anim = "idle",
 		flag = 49,
 	},
 	personCarried = {
-		animDict = "nm",
+		animDict = "amb@code_human_in_car_idles@generic@ps@base",
 		anim = "base",
 		attachX = 0.27,
 		attachY = 0.15,
 		attachZ = 0.63,
 		flag = 33,
 	}
-} 
+}
 ```
 # Discord: https://discord.gg/nxVGTtZBe2
 # Showcase: https://youtu.be/wnNpxBfcyIA

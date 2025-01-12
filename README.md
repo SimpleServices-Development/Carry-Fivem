@@ -19,3 +19,5 @@ Whenever you click your key of choice you will carry a person if they are nearby
 # Discord: https://discord.gg/nxVGTtZBe2
 # Showcase: https://youtu.be/wnNpxBfcyIA
 # Install Showcase: https://youtu.be/xI4VDluv-sM
+
+Edited version of: https://github.com/rubbertoe98/FiveM-Scripts/tree/master/CarryPeople
